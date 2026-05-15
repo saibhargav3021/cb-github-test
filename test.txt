@@ -1,2 +1,3 @@
 Integration with codebeamer
 added the integration
+testing connection with the task item 1006
